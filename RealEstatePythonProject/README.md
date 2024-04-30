@@ -1,6 +1,6 @@
-# assignment-8-2019
+
 Project Proposal: 
-My partner and I will be working on a business project that somehow
+ I will be working on a business project that somehow
  resembles real estate agency, but instead of selling, 
  our program will be about renting properties out to prospective customers. 
  This project will be made interactive such that the backend user 
